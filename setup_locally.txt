@@ -1,0 +1,6 @@
+how to setup this game in vscode 
+firstly install pygame in your local developement machine
+you can use pip install pyagme
+if the above command generates errors use -:
+pip install pygame --pre 
+run the main.py file
